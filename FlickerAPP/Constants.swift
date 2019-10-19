@@ -31,7 +31,7 @@ struct Constants {
         static let ResponseFormat = "json"
         static let DisableJSONCallback = "1"
         static let MediumURL = "url_m"
-        static let Page = "10"
+        static let Page = "1"
         static let Perpage = "5"
     }
 }
